@@ -1,8 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using UserService.Interfaces;
-using UserService.Models;
-
-namespace UserService.Controllers;
+﻿namespace UserService.Controllers;
 
 public class UserController
 {

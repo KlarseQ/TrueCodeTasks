@@ -1,12 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using UserService.DBContext;
-using UserService.Interfaces;
-using UserService.Repositories;
-
-namespace UserService;
+﻿namespace UserService;
 
 internal static class Program
 {

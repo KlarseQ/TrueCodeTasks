@@ -1,7 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using UserService.Models;
-
-namespace UserService.DBContext;
+﻿namespace UserService.DBContext;
 
 public class AppDbContext : DbContext
 {

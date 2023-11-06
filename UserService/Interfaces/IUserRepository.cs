@@ -1,6 +1,4 @@
-﻿using UserService.Models;
-
-namespace UserService.Interfaces;
+﻿namespace UserService.Interfaces;
 
 public interface IUserRepository
 {

@@ -1,9 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using UserService.DBContext;
-using UserService.Interfaces;
-using UserService.Models;
-
-namespace UserService.Repositories;
+﻿namespace UserService.Repositories;
 
 public class UserRepository : IUserRepository
 {
