@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamBytesReader", "StreamBytesReader\StreamBytesReader.csproj", "{6E08A577-469D-41D3-BBAA-AE7D9BF6E462}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamBytesReaderTests", "StreamBytesReaderTests\StreamBytesReaderTests.csproj", "{96F539EF-D0FD-4D68-8B01-40DBCB0A3129}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{6E08A577-469D-41D3-BBAA-AE7D9BF6E462}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E08A577-469D-41D3-BBAA-AE7D9BF6E462}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E08A577-469D-41D3-BBAA-AE7D9BF6E462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F539EF-D0FD-4D68-8B01-40DBCB0A3129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F539EF-D0FD-4D68-8B01-40DBCB0A3129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F539EF-D0FD-4D68-8B01-40DBCB0A3129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F539EF-D0FD-4D68-8B01-40DBCB0A3129}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
