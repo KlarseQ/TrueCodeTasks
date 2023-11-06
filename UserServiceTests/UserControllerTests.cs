@@ -70,6 +70,8 @@ public class UserControllerTests
         _dbContext.Database.ExecuteSqlRaw("DELETE FROM TagToUser");
         _dbContext.Database.ExecuteSqlRaw("DELETE FROM Users");
         _dbContext.Database.ExecuteSqlRaw("DELETE FROM Tags");
+
+        _dbContext.Dispose();
     }
 
     [Test]
